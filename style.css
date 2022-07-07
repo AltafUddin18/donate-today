@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.textstyle {
+    font-size: 50px;
+    text-align: center;
+    color: azure;
+}
+
+.fexiblecontainer {
+    display: flex;
+
+}
