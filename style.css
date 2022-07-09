@@ -98,7 +98,6 @@ body p {
     margin-right: 20px;
     padding: 5% 5% 1.5% 10%;
     border-radius: 20px;
-
 }
 
 .tab2 {
@@ -141,4 +140,17 @@ footer {
 
 .sizes {
     font-size: 45px;
+}
+
+.gap {
+    padding-left: 10%;
+}
+
+.imgsize {
+    width: 750px;
+    height: 600px;
+}
+
+.wid {
+    width: 90%;
 }
