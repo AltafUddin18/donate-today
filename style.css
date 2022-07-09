@@ -95,7 +95,7 @@ body p {
 
 .tab1 {
     background-color: rgba(0, 255, 255, 0.164);
-    margin-right: 20px;
+    margin-right: 25px;
     padding: 5% 5% 1.5% 10%;
     border-radius: 20px;
 }
@@ -108,7 +108,7 @@ body p {
 
 .tab3 {
     background-color: #80ff004f;
-    margin-left: 20px;
+    margin-left: 25px;
     padding: 5% 5% 1.5% 10%;
     border-radius: 20px;
 }
@@ -153,4 +153,20 @@ footer {
 
 .wid {
     width: 90%;
+}
+
+.layout {
+    margin-right: 10%;
+}
+
+.bottombox {
+    background-color: rgb(248, 199, 209);
+    width: 50%;
+    text-align: center;
+    margin-left: 24%;
+    padding: 2%;
+    border: 5px solid;
+    border-image: linear-gradient(pink, rgb(221, 108, 108));
+    border-image-slice: 1;
+    ;
 }
